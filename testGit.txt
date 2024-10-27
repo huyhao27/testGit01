@@ -1,2 +1,4 @@
 Hao dang thu git 
 cung voi ae 
+i++;
+int a = i+2;
